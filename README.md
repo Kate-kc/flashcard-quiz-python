@@ -1,4 +1,4 @@
-# flashcard-quiz
+# flashcard-quiz-python
 
 A Python program to help you memorize vocabulary with flashcards and quizzes.  
 This project allows users to load an Excel file of words and their definitions and quiz themselves interactively in the terminal.
@@ -44,7 +44,7 @@ python3 quiz.py
 
 3. **Follow the prompts:**
 
-- Enter the Excel file path
+- Enter the Excel or csv file path
 - Choose what to display for the questions: Word, Definition, or Both
   - **Word** → the quiz will show the word and you answer with the definition  
   - **Definition** → the quiz will show the definition and you answer with the word  
